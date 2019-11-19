@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <title>How to make a website</title>
